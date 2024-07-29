@@ -1,0 +1,149 @@
+[
+    {
+        "course_id":1,
+        "course_name":"Python for Data science",
+        "category":"Data Science",
+        "authored_by":"Jose Portilla",
+        "price":4999,
+        "thumbnail_url":"https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/",
+        "description":"Learn how to use NumPy, Pandas, Seaborn , Matplotlib , Plotly , Scikit-Learn , Machine Learning, Tensorflow , and more!"
+        
+    },
+    
+    {
+        "course_id":2,
+        "course_name":"The Data Science Course",
+        "category":"Data Science",
+        "authored_by":"365 Carees",
+        "price":4099,
+        "thumbnail_url":"https://www.udemy.com/course/the-data-science-course-complete-data-science-bootcamp/",
+        "description":"Complete Data Science Training: Math, Statistics, Python, Advanced Statistics in Python, Machine and Deep Learning"
+    },
+     {
+        "course_id":3,
+        "course_name":" R For Data Science With Real Exercises!",
+        "category":"Data Science",
+        "authored_by":"Kirill Eremenko",
+        "price":4999,
+        "thumbnail_url":"https://www.udemy.com/course/r-programming/",
+        "description":"Learn Programming In R And R Studio. Data Analytics, Data Science, Statistical Analysis, Packages, Functions, GGPlot2"
+    },
+     {
+        "course_id":4,
+        "course_name":"Data Science A-Z: Hands-On Exercises & ChatGPT Prize",
+        "category":"Data Science",
+        "authored_by":"Kirill Eremenko",
+        "price":4099,
+        "thumbnail_url":"https://www.udemy.com/course/datascience/",
+        "description":"Learn Data Science step by step through real Analytics examples. Data Mining, Modeling, Tableau Visualization and more!"
+    },
+     {
+        "course_id":5,
+        "course_name":"Machine Learning A-Z: AI, Python & R + ChatGPT",
+        "category":"AI & ML",
+        "authored_by":"Kirill Eremenko",
+        "price":4999,
+        "thumbnail_url":"https://www.udemy.com/course/machinelearning/",
+        "description":"Learn to create Machine Learning Algorithms in Python and R from two Data Science experts. Code templates included."
+    },
+     {
+        "course_id":6,
+        "course_name":"Complete A.I. & Machine Learning, Data Science Bootcamp",
+        "category":"AI & ML",
+        "authored_by":"Kirill Eremenko",
+        "price":4099,
+        "thumbnail_url":"https://www.udemy.com/course/complete-machine-learning-and-data-science-zero-to-mastery/",
+        "description":"Learn Data Science, Data Analysis, Machine Learning (Artificial Intelligence) and Python with Tensorflow, Pandas &amp; more!"
+    },
+     {
+        "course_id":7,
+        "course_name":"Artificial Intelligence A-Z 2024: Build 7 AI + LLM & ChatGPT",
+        "category":"AI & ML",
+        "authored_by":"Hadelin de Ponteves",
+        "price":4099,
+        "thumbnail_url":"https://www.udemy.com/course/artificial-intelligence-az/",
+        "description":"Combine the power of Data Science, Machine Learning and Deep Learning to create powerful AI for Real-World applications!"
+    },
+     {
+        "course_id":8,
+        "course_name":"AI & ML Made Easy : A Comprehensive Guide (2024)",
+        "category":"AI & ML",
+        "authored_by":"365 Carees",
+        "price":4999,
+        "thumbnail_url":"https://www.udemy.com/course/aritificial-intelligence-machine-learning-comprehensive-guide-2024/",
+        "description":"From Understanding Intelligence to Deep Learning: Unravel AI &amp; ML in Real-World Applications for a Future-Proof Career"
+    },
+     {
+        "course_id":9,
+        "course_name":"Microsoft Excel: Advanced Excel Formulas & Functions",
+        "category":"Data Analysis",
+        "authored_by":"Maven Analyics",
+        "price":4099,
+        "thumbnail_url":"https://www.udemy.com/course/excel-for-analysts/",
+        "description":"Learn 75+ Excel spreadsheet formulas for data analysis &amp; business intelligence, with a top Microsoft Excel instructor!"
+    },
+     {
+        "course_id":10,
+        "course_name":"Learning Python for Data Analysis and Visualization Ver 1",
+        "category":"Data Analysis",
+        "authored_by":"Jose Portilla",
+        "price":4000,
+        "thumbnail_url":"https://www.udemy.com/course/learning-python-for-data-analysis-and-visualization/",
+        "description":"Learn 75+ Excel spreadsheet formulas for data analysis &amp; business intelligence, with a top Microsoft Excel instructor!"
+    },
+     {
+        "course_id":11,
+        "course_name":"Python For Data Science A-Z: EDA With Real Exercises",
+        "category":"Data Analysis",
+        "authored_by":"Pruthviraja",
+        "price":4099,
+        "thumbnail_url":"https://www.udemy.com/course/data-analysis-with-pandas-a-complete-tutorial/",
+        "description":"Work With Pandas, Python For Data Science, ML &amp; Data Analysis, Data Prep With EDA &amp;100+ Exercises &amp; Real Life Projects"
+    },
+     {
+        "course_id":12,
+        "course_name":"Data Analysis with Pandas and Python",
+        "category":"Data Analysis",
+        "authored_by":"Boris Paskhaver",
+        "price":4999,
+        "thumbnail_url":"https://www.udemy.com/course/data-analysis-with-pandas/",
+        "description":"Complete Data Analyst Training: Python, NumPy, Pandas, Data Collection, Preprocessing, Data Types, Data Visualization"
+    },
+     {
+        "course_id":13,
+        "course_name":"The Complete SQL Bootcamp: Go from Zero to Hero",
+        "category":"SQL",
+        "authored_by":"Pierian",
+        "price":4009,
+        "thumbnail_url":"https://www.udemy.com/course/the-complete-sql-bootcamp/",
+        "description":"Become an expert at SQL!"
+    },
+     {
+        "course_id":14,
+        "course_name":"The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert",
+        "category":"SQL",
+        "authored_by":"Colt steele",
+        "price":4999,
+        "thumbnail_url":"https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/",
+        "description":"JUST COMPLETELY REDONE! Master SQL, Work With Complex Databases, Build Reports, and More!"
+    },
+     {
+        "course_id":15,
+        "course_name":"SQL - MySQL for Data Analytics and Business Intelligence",
+        "category":"SQL",
+        "authored_by":"365 Carees",
+        "price":4000,
+        "thumbnail_url":"https://www.udemy.com/course/sql-mysql-for-data-analytics-and-business-intelligence/",
+        "description":"SQL that will get you hired – SQL for Business Analysis, Marketing, and Data Management"
+    },
+     {
+        "course_id":16,
+        "course_name":"SQL for NEWBS: Weekender Crash Course",
+        "category":"SQL",
+        "authored_by":"peter sefton",
+        "price":4099,
+        "thumbnail_url":"https://www.udemy.com/course/sql-for-newbs/",
+        "description":"Data Analysis for Data Scientists, Marketers, & Business/Product folks. Using MySQL but appropriate for all SQL."
+    }
+     
+]
